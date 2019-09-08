@@ -1,0 +1,1 @@
+This is a standalone application that has main(String args[]) in com.secure.Application.
